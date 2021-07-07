@@ -6,7 +6,7 @@ Source of data : [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultim
 Using Transfer Learning to create an Image Classifier on the TensorFlow framework:
 
 Used VGG 16 to classify from chest X-rays whether the patient is COVID positive or negative. 
-(Old data X-raysnot used anymore.)
+(Old data X-rays not used anymore.)
 
 
 Accuracy Over Epochs:
