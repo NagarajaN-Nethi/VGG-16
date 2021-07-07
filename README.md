@@ -3,10 +3,10 @@ Transfer learning using VGG 16 to classify xray images as pneumonia or normal
 
 Source of data : [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-Using Tranfer Learning to create an Image Classifier on the TensorFlow framework:
+Using Transfer Learning to create an Image Classifier on the TensorFlow framework:
 
-Used VGG 16 to classigy from chest xrays whether patient is COVID poitive or negative. 
-(Old data xrays not used anyore.)
+Used VGG 16 to classify from chest X-rays whether the patient is COVID positive or negative. 
+(Old data X-raysnot used anymore.)
 
 
 Accuracy Over Epochs:
